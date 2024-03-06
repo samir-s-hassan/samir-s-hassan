@@ -28,7 +28,7 @@ I'm Samir, a third-year Computer Science and Business student at Lehigh Universi
   <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
 </div>
 
-### 📉 I’m familiar with
+### 🌳 I’m familiar with
 
 <div display="flex">
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
