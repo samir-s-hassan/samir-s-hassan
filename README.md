@@ -13,14 +13,11 @@ I'm Samir, a fourth-year (senior) Computer Science and Business student at Lehig
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
 
-### 📈 I’m working on
+### 📝 I’m currently working on
 
-- iOS mobile app development focusing on the design and implementation of RESTful API clients
 - Cybersecurity projects
 - Computer networking projects (School)
 - Full-stack web application (School)
-- Operating Systems projects (School)
-- Design, implementation, and use of different programming languages project (School)
 
 ### 🌱 I’m progressing in
 
