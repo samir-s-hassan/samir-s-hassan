@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Samir, a fourth-year (senior) Computer Science and Business student at Lehigh University. I like to code a lot 😎
+I'm Samir, a fourth-year (senior) Computer Science and Business student at Lehigh University.
 
 ### 📝 I’m currently working on
 
