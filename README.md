@@ -52,4 +52,4 @@ I'm Samir, a fourth-year (senior) Computer Science and Business Honors student a
 
 ### ⚡ Fun facts
 
-I enjoy a lot of things outside of coding (who would've thought?) I enjoy weightlifting and all kinds of sports. Though, soccer and cricket have to be my two favorites. I enjoy reading books and watching movies when I have the time. I also enjoy all things tech from smartphones to laptops to gaming rigs. Oh, and I love cooking 🧑‍🍳!
+I enjoy a lot of things outside of coding. I enjoy weightlifting and all kinds of sports. Though, soccer and cricket have to be my two favorites. I enjoy reading books and watching movies when I have the time. I also enjoy all things tech from smartphones to laptops to gaming rigs. Oh, and I love cooking 🧑‍🍳!
