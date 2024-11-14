@@ -4,9 +4,8 @@ I'm Samir, a fourth-year (senior) Computer Science and Business Honors student a
 
 ### 📝 I’m currently working on
 
-- Cybersecurity projects
 - Computer networking projects (School)
-- Full-stack web application (School)
+- Full-stack web applications
 
 ### 🌱 I’m progressing in
 
@@ -40,7 +39,7 @@ I'm Samir, a fourth-year (senior) Computer Science and Business Honors student a
 ### 🤔 I’m looking for help with
 
 - Creating mobile applications to publish to the App Store and/or Google Play Store
-- Building full-stack web applications using new technologies
+- Building full-stack web applications using new tools, frameworks, and technologies
 
 ### 📫 How to reach me
 
