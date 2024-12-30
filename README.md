@@ -4,7 +4,6 @@ I'm Samir, a fourth-year (senior) Computer Science and Business Honors student a
 
 ### 📝 I’m currently working on
 
-- Computer networking projects (School)
 - Full-stack web applications
 
 ### 🌱 I’m progressing in
