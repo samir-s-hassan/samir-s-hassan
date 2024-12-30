@@ -4,14 +4,8 @@ I'm Samir, a fourth-year (senior) Computer Science and Business Honors student a
 
 ### 📝 I’m currently working on
 
-- Full-stack web applications
-
-### 🌱 I’m progressing in
-
-<div display="flex">
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</div>
+- Full-stack applications
+- Building a personal website
 
 ### 🌳 I’m great with
 
@@ -23,7 +17,8 @@ I'm Samir, a fourth-year (senior) Computer Science and Business Honors student a
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge" alt="Express.js"/>
+    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge" 
+alt="Express.js"/>
 </div>
 
 ### 📈 I’m familiar with
@@ -31,8 +26,16 @@ I'm Samir, a fourth-year (senior) Computer Science and Business Honors student a
 <div display="flex">
     <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
     <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<div display="flex">
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" 
+alt="C"/>
+</div>
+
+### 🌱 I’m learning more
+
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </div>
 
 ### 🤔 I’m looking for help with
