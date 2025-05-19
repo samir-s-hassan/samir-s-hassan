@@ -4,6 +4,17 @@ I'm Samir, a Computer Science and Business Honors alum at Lehigh University. I'l
 
 My Github showcases all the projects that I'm happy with and have written code for. The projects themselves have READMEs that make it pretty self-explanatory. Feel free to reach out to me with any questions/comments.
 
+### 📫 How to reach me
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://www.linkedin.com/in/samir-hassan1/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:samir.hassan@alum.lehigh.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
 ### 📝 I’m currently working on
 
 - Full-stack applications
@@ -50,17 +61,6 @@ alt="TypeScript"/>
 - Creating mobile applications to publish to the App Store and/or Google Play Store
 - Building full-stack web applications using new tools, frameworks, and technologies
 - Leveraging AI to develop, build, and ship applications faster
-
-### 📫 How to reach me
-
-<div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.linkedin.com/in/samir-hassan1/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:samir.hassan@alum.lehigh.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
 
 ### ⚡ Fun facts
 
