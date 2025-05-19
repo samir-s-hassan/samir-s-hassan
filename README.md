@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Samir, a fourth-year (senior) Computer Science and Business Honors student at Lehigh University.
+I'm Samir, a Computer Science and Business Honors alum at Lehigh University. I'll be entering the workforce soon. My Github showcases all the projects that I'm happy with and have written code for.
 
 ### 📝 I’m currently working on
 
