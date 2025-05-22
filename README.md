@@ -18,7 +18,7 @@ My Github showcases all the projects that I'm happy with and have written code f
 ### 📝 I’m currently working on
 
 - Full-stack applications
-- Turning ideas I have into code in an effort to improve my everyday life
+- Turning ideas I have into code in an effort to improve everyday life
 
 ### 🌳 I’m great with
 
