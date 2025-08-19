@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Samir, a Computer Science and Business Honors alum at Lehigh University. I'll be entering the workforce this summer (2025). 
+I'm Samir, a Computer Science and Business Honors alum at Lehigh University. I'm currently working in industry. 
 
 My Github showcases all the projects that I'm happy with and have written code for. The projects themselves have READMEs that make it pretty self-explanatory. Feel free to reach out to me with any questions/comments.
 
@@ -37,21 +37,21 @@ alt="Express.js"/>
 ### 📈 I’m familiar with
 
 <div display="flex">
-    <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" 
-alt="Rust"/>
     <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"
 alt="Swift"/>
     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" 
 alt="Flutter"/>
     <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" 
 alt="C"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" 
+alt="Python"/>
 </div>
 
 ### 🌱 I’m learning more
 
 <div display="flex">
-<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" 
-alt="Python"/>
+<img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" 
+alt="Rust"/>
 <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" 
 alt="TypeScript"/>
 </div>
